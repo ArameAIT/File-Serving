@@ -1,0 +1,1 @@
+alert("HI \n This is Photo page")
